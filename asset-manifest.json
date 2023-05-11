@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Texnpm%20install%20--save%20gh-pagestUtils-React/static/css/main.5109368b.css",
+    "main.js": "/Texnpm%20install%20--save%20gh-pagestUtils-React/static/js/main.67c9d9f9.js",
+    "static/js/787.ba815635.chunk.js": "/Texnpm%20install%20--save%20gh-pagestUtils-React/static/js/787.ba815635.chunk.js",
+    "index.html": "/Texnpm%20install%20--save%20gh-pagestUtils-React/index.html",
+    "main.5109368b.css.map": "/Texnpm%20install%20--save%20gh-pagestUtils-React/static/css/main.5109368b.css.map",
+    "main.67c9d9f9.js.map": "/Texnpm%20install%20--save%20gh-pagestUtils-React/static/js/main.67c9d9f9.js.map",
+    "787.ba815635.chunk.js.map": "/Texnpm%20install%20--save%20gh-pagestUtils-React/static/js/787.ba815635.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5109368b.css",
+    "static/js/main.67c9d9f9.js"
+  ]
+}
